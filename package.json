@@ -1,0 +1,32 @@
+{
+  "name": "sr4kk",
+  "displayName": "sr4kk-red-theme",
+  "description": "Tema para aqueles que gosta de vermelho",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deus-Grego/Temas-para-vscode"
+  },
+  "icon": "colors.png",
+
+  "keywords": [
+    "theme-red",
+    "dark",
+    "dark-red"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sr4kk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red-theme-color-theme.json"
+      }
+    ]
+  }
+}
